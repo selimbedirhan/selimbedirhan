@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 4th-year **Computer Engineering** student at **Ankara University**  
-- 🤖 Working on **AI/ML**, **Game Development**, and **Full‑Stack** (Spring Boot + React)  
+- 🤖 Working on **AI/ML**, and **Full‑Stack** (Spring Boot + React)  
 - 🧩 Loves algorithms, data structures, and building useful things  
 - 🎯 Goal: Ship professional, production‑ready projects
 
