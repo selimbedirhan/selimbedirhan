@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="100%" alt="Selim Bedirhan Öztürk banner" />
 </p>
 
-<h1 align="center">Hi, I'm Selim Bedirhan Öztürk ✨</h1>
+<h1 align="center">Hi, I'm Selim Bedirhan Öztürk </h1>
 <p align="center">
   Passionate about <b>AI/ML, LLM-powered Automation</b> and <b>Cloud-Native Development</b> • Ankara University
 </p>
